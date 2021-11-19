@@ -1,0 +1,3 @@
+[submodule "medum-frontend"]
+	path = medum-frontend
+	url = https://github.com/soyArturo/medum-frontend
